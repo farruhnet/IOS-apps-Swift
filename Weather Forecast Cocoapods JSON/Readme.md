@@ -5,7 +5,7 @@ Simple Application for Weather Forecast
 
 <a target="_blank" href="https://imageshack.com/i/pmYzMNqrp"><img src="https://imagizer.imageshack.com/v2/xq90/922/YzMNqr.png" border="0"></a>
 
-<a target="_blank" href="https://imageshack.com/i/pmYzMNqrp"><img src="https://imagizer.imageshack.com/v2/xq90/922/YzMNqr.png" border="0"></a>
+<a target="_blank" href="https://imageshack.com/i/plp3iodRp"><img src="https://imagizer.imageshack.com/v2/xq90/921/p3iodR.png" border="0"></a>
 
 ## In that app used cocoapod: with SwiftyJSON, Alamofire, SVProgressHUD
 

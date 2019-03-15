@@ -1,5 +1,5 @@
 //
-//  MIGradient.swift
+//  MILabel.swift
 //  MakeIt
 //
 //  Created by apple on 2019/3/15.
